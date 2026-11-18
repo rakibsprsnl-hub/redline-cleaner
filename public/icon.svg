@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" fill="#090909"/>
+  <rect x="64" y="64" width="384" height="384" fill="#151515" stroke="#383838" stroke-width="6"/>
+  <!-- Corner reticles -->
+  <path d="M96 144 V96 H144 M368 96 H416 V144 M96 368 V416 H144 M368 416 H416 V368" fill="none" stroke="#E50920" stroke-width="10" stroke-linecap="square"/>
+  <!-- Back duplicate frame -->
+  <rect x="148" y="148" width="144" height="144" fill="#1D1D1D" stroke="#750011" stroke-width="10"/>
+  <!-- Front original frame -->
+  <rect x="220" y="220" width="144" height="144" fill="#E50920"/>
+  <rect x="244" y="244" width="96" height="96" fill="#090909"/>
+  <!-- Red CRT scanline bar -->
+  <rect x="120" y="250" width="272" height="12" fill="#FF263F"/>
+</svg>
